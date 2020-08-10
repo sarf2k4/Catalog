@@ -8,3 +8,6 @@ These are the parts catalog collected that would help in comparing and finding t
 - SI Brand Threaded Insert for Plastics - https://www.pemnet.com/fastening_products/pdf/sidata.pdf
 
 - LED Quick Reference Sheet - https://github.com/thehookup/Holiday_LEDs_2.0/blob/master/Quick%20Reference%20Sheet.pdf
+
+- LED Strip Wattage - https://github.com/thehookup/Holiday_LEDs_2.0/blob/master/Strip%20Wattage.pdf
+
